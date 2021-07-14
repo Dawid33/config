@@ -1,6 +1,3 @@
-[submodule "neovim"]
-	path = neovim
-	url = https://github.com/neovim/neovim
 [submodule "dwm"]
 	path = dwm
 	url = https://github.com/Dawid33/dwm
