@@ -3,7 +3,7 @@
 	url = https://github.com/neovim/neovim
 [submodule "dwm"]
 	path = dwm
-	url = https://git.suckless.org/dwm
+	url = https://github.com/Dawid33/dwm
 [submodule "st"]
 	path = st
-	url = https://git.suckless.org/st
+	url = https://github.com/Dawid33/st
